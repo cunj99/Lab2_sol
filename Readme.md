@@ -4,20 +4,29 @@
 **CSCI2421 - Summer 2021**
 
 ### **_Team Members Names:_**
-- Student #1: `complete here`
-- Student #2: `complete here`
+- Student #1: `John Cun'
+- Student #2: `Gebrekrstos Gebremichale`
 - Student #3: `complete here`
 
 ### **Lab Status**
 ```text
 Describe **briefly** how complete your lab is, and how did you tested it.
 Does it work on CSEGrid?
+
+TODO #1 is completed
+TODO #2,3,4 are partially completed
+TODO #5,6 are not completed
+
+Has not compiled.
 ```
 
 ### **Discussion**
 _What benefits had for this lab development that all the interfaces of the class were well-defined?_ 
 ```text
 Discuss your ideas with your partner an write a short summary here.
+
+Having the linked-list bag benefited the program by allowing the easy addition and removal of the classes without being limited
+to a fixed-array.
 ```
 
 -----
